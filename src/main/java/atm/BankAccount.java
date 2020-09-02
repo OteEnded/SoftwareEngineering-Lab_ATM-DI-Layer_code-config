@@ -49,5 +49,13 @@ public class BankAccount {
    public double getBalance() {
       return balance; 
    }
+
+   public int getId() {
+      return id;
+   }
+
+   public String getName() {
+      return name;
+   }
 }
 
